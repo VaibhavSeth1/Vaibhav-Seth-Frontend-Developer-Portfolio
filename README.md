@@ -3,4 +3,4 @@ Vaibhav Seth | Frontend Developer Welcome to my portfolio! I’m a frontend deve
 Tech: HTML5, CSS3, Responsive Design 
 Feel free to explore my work and contact me!
 
-Link: 
+Link: https://vaibhavseth1.github.io/Vaibhav-Seth-Frontend-Developer-Portfolio/
